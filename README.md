@@ -15,79 +15,39 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Languages**
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+```python
+class DaniAldrin:
+    def __init__(self):
+        self.name           = "Dani Aldrin D"
+        self.location       = "Kanyakumari, Tamil Nadu, India"
+        self.email          = "danialdrin.d@gmail.com"
+        self.degree         = "B.E. Computer Science Engineering (2023–2027)"
+        self.cgpa           = 8.48
+        self.github         = "github.com/danialdrin/danialdrin"
 
-**Frontend**
+        self.stack = {
+            "languages"  : ["Python", "JavaScript", "TypeScript"],
+            "frontend"   : ["React.js", "HTML", "CSS"],
+            "backend"    : ["Flask"],
+            "databases"  : ["MySQL", "Pinecone"],
+            "tools"      : ["Git", "GitHub", "Figma", "Vercel", "n8n", "Canva"],
+            "ai_ml"      : ["Google Gemini API", "Streamlit", "Bytez API"],
+        }
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+        self.currently_learning = [
+            "Advanced React Patterns",
+            "LangChain & RAG Pipelines",
+            "Cloud Deployment (AWS / GCP)",
+        ]
 
-**Databases**
+        self.fun_fact = "I ranked 9th in my Higher Secondary Board Exam among 300+ students 🎯"
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+    def motto(self):
+        return "Design it. Build it. Ship it. 🚀"
 
-**AI / ML & APIs**
-
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Bytez%20API-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Dev & Design Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EF6737?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏷️ | Achievement | Details |
-|:---:|:---|:---|
-| 🥇 | **Higher Secondary Board — Top 10** | Ranked **9th out of 300+** students in the HSC Board Examination |
-| 👑 | **Team Captain — UI/UX Internship** | Promoted mid-internship at **UpToSkills** for leadership, consistency & ownership |
-| ⚡ | **Smart India Hackathon — Shortlisted** | Selected in the **internal hackathon round** for SIH participation |
-
-</div>
-
----
-
-## 🎓 Education & Currently Learning
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:---|:---|:---:|:---:|
-| B.E. Computer Science Engineering | RMK College of Engineering and Technology, Tiruvallur | 2023 – 2027 | **8.48 CGPA** |
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:danialdrin.d@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dani-aldrin-m1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/danialdrin/danialdrin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+me = DaniAldrin()
+print(me.motto())
