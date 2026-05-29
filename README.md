@@ -21,7 +21,6 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## &nbsp;🛠️ &nbsp;Tech Arsenal
 
@@ -78,14 +77,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danialdrin&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=6e40c9&point=38bdae&area=true&area_color=6e40c9&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-## &nbsp;🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danialdrin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -157,17 +148,6 @@
 | B.E. Computer Science Engineering | RMK College of Engineering & Technology, Tiruvallur | 2023 – 2027 | **8.48 CGPA** |
 
 </div>
-
----
-
-## &nbsp;📚 &nbsp;Currently Learning
-
-```
-🔗  LangChain & RAG    →  Vector Search · Pinecone · Prompt Engineering · Retrieval Chains
-⚛️  Advanced React     →  Custom Hooks · Context API · Suspense · Performance Optimization
-☁️  Cloud Deployment   →  AWS EC2 · GCP Run · CI/CD · Docker Basics
-🔐  Backend Security   →  JWT Auth · OAuth2 · Parameterized Queries · Rate Limiting
-```
 
 ---
 
