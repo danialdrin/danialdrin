@@ -23,49 +23,6 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## &nbsp;`< About Me />`
-
-```python
-class DaniAldrin:
-    def __init__(self):
-        self.name      = "Dani Aldrin D"
-        self.location  = "Kanyakumari, Tamil Nadu, India"
-        self.email     = "danialdrin.d@gmail.com"
-        self.github    = "github.com/danialdrin"
-        self.linkedin  = "linkedin.com/in/dani-aldrin-m13"
-        self.leetcode  = "leetcode.com/u/dani-aldrin-m13"
-        self.degree    = "B.E. CSE @ RMK College (2023-27)"
-        self.cgpa      = 8.48
-
-        self.stack = {
-            "languages" : ["Python", "JavaScript", "TypeScript"],
-            "frontend"  : ["React.js", "HTML5", "CSS3"],
-            "backend"   : ["Flask", "REST APIs"],
-            "databases" : ["MySQL", "Pinecone (Vector DB)"],
-            "ai_tools"  : ["Gemini API", "Bytez API", "Streamlit"],
-            "design"    : ["Figma", "Stitch", "Canva"],
-            "devops"    : ["Git", "GitHub", "Vercel", "n8n"],
-        }
-
-        self.currently_learning = [
-            "LangChain & RAG Pipelines",
-            "Advanced React Patterns",
-            "Cloud Deployment (AWS / GCP)",
-        ]
-
-        self.fun_fact = "Ranked 9th / 300+ students in HSC Board Exams"
-
-    def motto(self) -> str:
-        return "Design it. Build it. Ship it."
-
-me = DaniAldrin()
-print(me.motto())
-```
-
-<br clear="right"/>
-
----
-
 ## &nbsp;🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
